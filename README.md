@@ -8,7 +8,7 @@ This is a solution to the [M3 - Basketball Scoreboard](https://scrimba.com/scrim
 
 ## Links
 
-- Scrimba: [Scrimba](https://scrimba.com/scrim/cPmzP8HE)
+- Scrim: [Scrimba](https://scrimba.com/scrim/cPmzP8HE)
 - Live Site URL: [Netlify](https://symphonious-puffpuff-38c0e6.netlify.app/)
 - Codebase: [Github](https://github.com/abilioassis/basketball-scoreboard)
 
