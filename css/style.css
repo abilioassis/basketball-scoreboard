@@ -1,0 +1,96 @@
+/** Global definitions **/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Cursed Timer ULiL", sans-serif;
+}
+
+.container {
+  width: 95%;
+  max-width: 575px;
+  margin: 0 auto;
+  padding: 3em 1em;
+  background: linear-gradient(#1b244a, #142777);
+}
+
+.container-inner {
+  margin: 0 auto;
+  max-width: 410px;
+  text-align: center;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.board {
+  width: 155px;
+}
+
+.board-title {
+  font-family: Verdana, sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.board-score {
+  font-size: 5.625rem;
+  color: #f94f6d;
+  background: #080001;
+  padding-top: 0.2em;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  padding: 0.8em;
+  color: #9aabd8;
+  border: 2px solid #9aabd8;
+  background: #1b244a;
+  border-radius: 5px;
+  font-family: "Cursed Timer ULiL", sans-serif;
+}
+
+.btn:hover,
+.btn:focus {
+  background: #2d3b7a;
+}
+
+.commands {
+  width: 100%;
+  margin-top: 1em;
+}
+
+.btn-full-w {
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+}
+
+@media (max-width: 384px) {
+  .container {
+    width: 100%;
+  }
+
+  .scoreboard {
+    flex-direction: column;
+    gap: 2em;
+    justify-content: center;
+  }
+}
