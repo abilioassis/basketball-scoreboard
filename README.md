@@ -1,4 +1,4 @@
-# Scrimba Bootcamp - Exclusive Solo Projects
+# Scrimba Bootcamp - Solo Projects
 
 This is a solution to the [M3 - Basketball Scoreboard](https://scrimba.com/scrim/cz9adVfP).
 
@@ -10,7 +10,7 @@ This is a solution to the [M3 - Basketball Scoreboard](https://scrimba.com/scrim
 
 - Live Site: [Netlify](https://symphonious-puffpuff-38c0e6.netlify.app/)
 - Codebase: [Github](https://github.com/abilioassis/basketball-scoreboard)
-- Code review: [Scrimba](https://scrimba.com/scrim/cPmzP8HE)
+- Code review: [Scrimba](https://scrimba.com/scrim/co05847f9aa9c29e71d70f727)
 
 ## Built with
 
